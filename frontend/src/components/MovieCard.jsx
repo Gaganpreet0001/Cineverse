@@ -1,0 +1,1 @@
+export default function MovieCard({title,rating}){return <div><h3>{title}</h3><p>{rating}</p></div>}

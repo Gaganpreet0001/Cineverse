@@ -1,0 +1,1 @@
+Day1 Architecture: React, Spring Boot, PostgreSQL, MongoDB, Redis, RabbitMQ, JWT, Docker.
